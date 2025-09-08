@@ -12,6 +12,7 @@
   "dependencies": {
     "axios": "^1.11.0",
     "lucide-react": "^0.542.0",
+    "mern-thinkboard": "file:..",
     "module": "^1.2.5",
     "package": "^1.0.1",
     "react": "^19.1.1",
